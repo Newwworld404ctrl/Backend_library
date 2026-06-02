@@ -1,3 +1,18 @@
+___Τεχνολογίες___
+Java
+Spring Boot
+Spring Data JPA
+Hibernate
+MySQL
+Swagger/OpenAPI
+
+___Λειτουργίες___
+CRUD λειτουργίες για Βιβλία
+CRUD λειτουργίες για Συγγραφείς
+Σχέση Many-to-Many μεταξύ Βιβλίων και Συγγραφέων
+REST API Endpoints
+API Documentation με Swagger
+
 _____Library Backend_____
 Spring Boot REST API για διαχείριση βιβλίων και συγγραφέων.
 
