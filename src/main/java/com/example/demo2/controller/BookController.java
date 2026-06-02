@@ -22,7 +22,7 @@ import com.example.demo2.services.BookService;
 import jakarta.validation.Valid;
 
 @RestController
-@RequestMapping("/api/books")
+@RequestMapping("books")
 @CrossOrigin(origins = "*")  
 public class BookController {
 
